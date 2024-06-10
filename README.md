@@ -1,7 +1,7 @@
-<h1 align="center"> Hello from Seyma <img src="https://github.com/Seyma44/Seyma44/assets/3766249/55e442cf-eb81-4534-8cc8-c38ee91b99bf" width="38px" alt="hi"> 
+<h1 align="center"> Hello from Darrel </h1>
 
 
-<h3  align="center">A passionate frontend developer from Türkiye</h3>
+<h3  align="center">A passionate FullStack developer from Malysia</h3>
 <div align="center">
   <img src="https://github.com/Seyma44/Seyma44/assets/3766249/459905c1-c887-4d5f-9a03-a3adebbedfbc" width="300" height="200"/>
 </div>
@@ -12,13 +12,12 @@
 
  <p  align="center">
 <p  align="center"> A computer Engineer (more than 10 years)</p>
-
-
- ⭐ Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seymasandikci/) 
- ⭐ Ask me about Reactjs,Nextjs or any tech related stuff
- ⭐ How to reach me: Instagram - @seymadevsoft [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seymadevsoft) 
- ⭐ I’m looking to collaborate on open source projects
- ⭐ Pronouns: She/Her  
+ ⭐ VIZWEB SOLUTIONS | DevOps Engineer
+ ⭐ EURUS TECHNOLOGIES | DevOps Engineer
+ ⭐ Principal Software Engineer | Chief Technical Officer
+ ⭐ Blockchain Analyst | Full-stack Developer 
+ ⭐ Social Networking Platform
+ ⭐ AWS cloud 
  </p>
 
 
@@ -80,12 +79,6 @@
 </div>
 
 ---
-
-<p  align="center">
-<a  href="https://www.buymeacoffee.com/seyma">  <img  align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"  height="50"  width="210"  alt="seyma"  /></a><img src="https://github.com/Seyma44/Seyma44/assets/3766249/64d2e76f-d677-40bc-a519-096f0179ad17" width="58px" alt="connect">Support</p> 
-
-<p align="center">Connect with me<img src="https://github.com/Seyma44/Seyma44/assets/3766249/b5115861-e923-4c2b-b5d7-3d475035f729" width="58px" alt="connect">  <a  href="https://www.linkedin.com/in/seymasandikci/" target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="şeyma sandıkçı"  height="30"  width="40"  /></a> </p>
-<hr align="center" size="1px" width="100%" color="#fc05e4">
  <br></br>
 
 
