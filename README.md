@@ -1,7 +1,7 @@
 <h1 align="center"> Hello from Darrel </h1>
 
 
-<h3  align="center">A passionate FullStack developer from Malysia</h3>
+<h3  align="center">A passionate FullStack developer</h3>
 <div align="center">
   <img src="https://github.com/Seyma44/Seyma44/assets/3766249/459905c1-c887-4d5f-9a03-a3adebbedfbc" width="300" height="200"/>
 </div>
